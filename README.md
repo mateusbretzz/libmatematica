@@ -1,2 +1,2 @@
-# pds_ufmg
+# libmatematica
 Atividade 2 de pds
